@@ -1,0 +1,22 @@
+{
+  "name": "events_maker",
+  "version": "1.0.0",
+  "description": "Events maker app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LartDev/events_maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LartDev/events_maker/issues"
+  },
+  "homepage": "https://github.com/LartDev/events_maker#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
